@@ -1,0 +1,6 @@
+{
+    "conf": 0.56,
+    "iou": 0.44,
+    "weights": "yolov9-c.pt",
+    "is_save": "checked"
+}

@@ -1,0 +1,4 @@
+train: ../voc/train/images
+val: ../voc/train/images
+nc: 2
+names: ['mask','no-mask']
